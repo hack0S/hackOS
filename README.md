@@ -15,7 +15,7 @@ Not decided yet.
 
 ## Release
 It is planned to release before **25th October** as it is currently in development.
-The beta builds will be based on [helloSystem](https://hellosystem.github.io), but the release should be completely independent.
+The beta builds might be based on [helloSystem](https://hellosystem.github.io), but the release should be completely independent.
 
 ## Future of the project
 hackOS will be updated *probably: if the project won't fail* and i will try to develop my own software for it.
