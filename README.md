@@ -14,7 +14,7 @@ There will be no compatibility with macOS apps for the first release.
 Not decided yet.
 
 ## Release
-It is planned to release before **25th October** as it is currently in development.
+It is planned to release before **5th of November** as it is currently in development.
 The beta builds might be based on [helloSystem](https://hellosystem.github.io), but the release should be completely independent.
 
 ## Future of the project
